@@ -9,4 +9,4 @@
 
 * 2024.06.17 🔥 Welcome you attend to 6/27 and 7/4 training camp.
 
-## Please refer related folder to get more information.
+## Please refer related folders to get more information.
