@@ -9,4 +9,6 @@
 
 * 2024.06.17 🔥 Welcome you attend to 6/27 and 7/4 training camp.
 
-## Please refer related folders to get more information.
+
+## Troubleshooting
+If you encounter any problem with 2024 AI Competition, please write [email](mailto:support.ai@fitipower.com) to us.
